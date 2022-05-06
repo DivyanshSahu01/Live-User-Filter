@@ -1,1 +1,1 @@
-Live user filter that filters users based on name/location.
+Live Preview - https://divyanshsahu01.github.io/Live-User-Filter/
